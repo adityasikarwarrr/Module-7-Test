@@ -31,8 +31,8 @@ function Footer() {
         <p>AccioJob</p>
         <div className="f-h-media">
           <Facebook className="sm" />
-          <Twitter className="sm" />
           <Instagram className="sm" />
+          <Twitter className="sm" />
         </div>
       </div>
       <hr />
